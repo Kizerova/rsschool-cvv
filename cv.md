@@ -1,5 +1,6 @@
 ********
-###Kizerova Tamila ![Tamila](/rsschool-cv/user_photo.jpg)
+###Kizerova Tamila 
+![Tamila](/rsschool-cv/user_photo.jpg)
 ********
 #####Contacts
 * Phone:+38 066 591 2274  
@@ -24,6 +25,3 @@ I believe, that my ability to learn  will lead me through this path of becoming 
 * Ukrainian(native)
 * Russian
 * English -A1 [according to the online test at platform EPAM](https://examinator.epam.com/Main/PersonalAssignments)
-
-
-[def]: /1%20%D1%82%20%D1%96%20%D0%BC%20-532.jpg
