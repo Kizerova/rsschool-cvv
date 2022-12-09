@@ -1,6 +1,6 @@
 ********
-###Kizerova Tamila    ![Tamila](/rsschool-cv/user_photo.jpg)
-**********
+###Kizerova Tamila ![Tamila](/rsschool-cv/user_photo.jpg)
+********
 #####Contacts
 * Phone:+38 066 591 2274  
 * E-mail:sulim.tamila@gmail.com
